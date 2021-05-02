@@ -1,10 +1,9 @@
-# OpenSource_for_Beginners
+# OpenSource for Beginners
 
 First time open source seems very confusing.
 <br>
 Althought initially open source might seem a bit tricky and complicated for the first timers. But believe me once you get hold of the basic functionalities you'll start loving it.
 
-<br>
 
 Therefore we came up with a prqactise enviroment to make you first open source contribution easy. 
 
