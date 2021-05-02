@@ -5,7 +5,7 @@ First time open source seems very confusing.
 Althought initially open source might seem a bit tricky and complicated for the first timers. But believe me once you get hold of the basic functionalities you'll start loving it.
 
 
-Therefore we came up with a prqactise enviroment to make you first open source contribution easy. 
+Therefore we came up with a practise enviroment to make you first open source contribution easy. 
 
 
 ## Steps to get Started
