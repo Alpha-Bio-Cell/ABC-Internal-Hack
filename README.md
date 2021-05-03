@@ -1,4 +1,17 @@
-# OpenSource for Beginners
+# ABC Internal HAck
+
+## Teams
+
+* NEW-BEES
+* FREE THINKERS
+* HACKOPHILICS
+* SQUADRON
+* BAJRANGI BHAIJANS
+* WE’REWOLVES
+
+
+
+<!-- # OpenSource for Beginners
 
 First time open source seems very confusing.
 <br>
@@ -21,3 +34,4 @@ Soon your changes will be reviewed and the PR will be merged if the changes are 
 
 ## Congratulations💥
 You made your first pull request
+-->
